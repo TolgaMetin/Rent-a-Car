@@ -1,0 +1,16 @@
+SIRA         MARKA__      MODEL_    PLAKA__       FIYAT
+___1         FIAT___      LINEA_    48AL325       _60TL
+___2         RENAULT      SYMBOL    48TM725       _60TL
+___3	     HYUNDAI      ACCENT    48AK349       _55TL
+___4         HYUNDAI      GETZ__    48MM990       _80TL
+___5         PEUGEOT      301___    48UZ750       _90TL
+___6         AUDI___      A3____    48GS905       150TL
+___7         AUDI___      A4____    48NS720       170TL
+___8         BMW____      320D__    34TSK25       200TL
+___9         BMW____      520D__    34MES27       340TL
+__10         BMW____      116I__    48ZTR57       130TL
+__11  	     HONDA__      CIVIC_    34STR59       150TL
+__12         DODGE__      NITRO_    34LA004       750TL
+__13         NISSAN_       350Z__    34MTS95       500TL
+__14         FERRARI      ITALIA    35ASK52       999TL
+__15         PORSCHE      911GTR    33EN222       850TL 
